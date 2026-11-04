@@ -48,6 +48,12 @@ select {
   font-size: 0.78rem;
   font-weight: 800;
 }
+.brand-logo {
+  display: block;
+  width: 64px;
+  height: 64px;
+  margin-bottom: 16px;
+}
 h1,
 h2 {
   font-family: Georgia, "Times New Roman", serif;

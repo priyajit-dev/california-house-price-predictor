@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">Location and home value logo</title>
+  <rect width="512" height="512" rx="112" fill="#101d31"/>
+  <path d="M256 79c-79 0-143 62-143 139 0 101 143 215 143 215s143-114 143-215c0-77-64-139-143-139Z" fill="#f8b537"/>
+  <path d="M184 251 256 191l72 60v77h-144v-77Z" fill="#101d31"/>
+  <path d="M229 328v-47h54v47" fill="#fff"/>
+  <circle cx="256" cy="218" r="94" fill="none" stroke="#fff" stroke-width="16"/>
+  <path d="M147 405c38-22 73-22 109 0 36-22 73-22 109 0" fill="none" stroke="#fff" stroke-linecap="round" stroke-width="15"/>
+</svg>
